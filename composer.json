@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/SSTech_Profileimage",
+    "type": "magento-module",
+    "license": "General-Public-License",
+    "homepage": "",
+    "description": "Extension which will allow to add the Customer Profile image while Registration",
+    "authors": [
+    {
+        "name": "SSTech",
+        "email": "sandynareshg@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
