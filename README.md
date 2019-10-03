@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Extension which will allow to add the Customer Profile image while Registration
